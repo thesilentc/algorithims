@@ -1,3 +1,5 @@
+# Sort Socks Part 2 Monday, 5/22/17
+
 socks = [
   { color: "red", size: "small" },
   { color: "blue", size: "small" },
